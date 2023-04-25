@@ -11,7 +11,7 @@ This project demonstrates the implementation of Login and Registration functiona
 - Servlet
 - MySQL Database
 - JDBC (Java Database Connectivity)
-- HTML and CSS
+- HTML,CSS and JavaScript
 
 ## Prerequisites:-
 
@@ -19,6 +19,19 @@ This project demonstrates the implementation of Login and Registration functiona
 - Apache Tomcat version 8 or above
 - Eclipse IDE (or any other IDE of your choice)
 - MySQL database
+
+## Implementation Steps
+- Create a MySQL Database and Tables
+- Develop the Registration Form using JSP and HTML
+- Develop a Servlet to Handle the Registration Form Submission
+- Add Server-Side Validation to the Registration Form
+- Develop the Login Form using JSP and HTML
+- Develop a Servlet to Handle the Login Form Submission
+- Add Server-Side Validation to the Login Form
+- Implement the Forgot Password Functionality
+- Develop a Password Reset Form and Servlet
+- Add Server-Side Validation to the Password Reset Form
+- Testing
 
 ## Installation steps:-
 
@@ -28,6 +41,14 @@ This project demonstrates the implementation of Login and Registration functiona
 - Update the database connection details in the 'DBUtil.java' file.
 - Build and run the project on Apache Tomcat server.
 - Access the application using the URL 'http://localhost:8080/login-registration'.
+
+## Output of Project:-
+#### Registration Page
+![Login-Registrationpage](https://user-images.githubusercontent.com/93505267/234291593-066800a0-12a7-4f0c-bb35-1cdef2734bc5.png)
+
+
+#### Login Page
+![Login-Loginpage](https://user-images.githubusercontent.com/93505267/234291526-6d2df10b-68e5-47b4-ae55-25000f9afacc.png)
 
 ## Features:-
 
@@ -50,12 +71,3 @@ This project demonstrates the implementation of Login and Registration functiona
 - How to Create a Complete Login and Forgot Password System in java ? [Part-1]
 - Forgot Password Page in java (JSP ,Servlet,Mysql Database, Eclipse IDE)
 - How to Create a Complete Login and Forgot Password System in java
-
-
-
-#### Registration Page
-![Login-Registrationpage](https://user-images.githubusercontent.com/93505267/234291593-066800a0-12a7-4f0c-bb35-1cdef2734bc5.png)
-
-
-#### Login Page
-![Login-Loginpage](https://user-images.githubusercontent.com/93505267/234291526-6d2df10b-68e5-47b4-ae55-25000f9afacc.png)
