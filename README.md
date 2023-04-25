@@ -71,6 +71,6 @@ This project demonstrates the implementation of Login and Registration functiona
 -  hashing for secure storage.
 - Responsive UI design using Bootstrap.
 
-## 🔗 Links
+## 🔗 Link for contact:-
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandaraj-t-n-834189173/)
