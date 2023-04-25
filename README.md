@@ -14,11 +14,16 @@ This project demonstrates the implementation of Login and Registration functiona
 
 ## Technologies used:-
 
-- JSP (JavaServer Pages)
-- Servlet
-- MySQL Database
+#### Back-end :
+- MySQL Database 
 - JDBC (Java Database Connectivity)
-- HTML,CSS and JavaScript
+- Servlet
+- JSP (JavaServer Pages)
+
+#### Front-end :
+- HTML 
+- CSS
+- JavaScript
 
 ## Prerequisites:-
 
