@@ -52,3 +52,10 @@ This project demonstrates the implementation of Login and Registration functiona
 - How to Create a Complete Login and Forgot Password System in java
 
 
+
+#### Registration Page
+![Login-Registrationpage](https://user-images.githubusercontent.com/93505267/234291593-066800a0-12a7-4f0c-bb35-1cdef2734bc5.png)
+
+
+#### Login Page
+![Login-Loginpage](https://user-images.githubusercontent.com/93505267/234291526-6d2df10b-68e5-47b4-ae55-25000f9afacc.png)
