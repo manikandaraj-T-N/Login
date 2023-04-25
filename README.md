@@ -59,15 +59,6 @@ This project demonstrates the implementation of Login and Registration functiona
 -  hashing for secure storage.
 - Responsive UI design using Bootstrap.
 
-## Overall view of project:-
+## 🔗 Links
 
-- Login and Registration using JSP, Servlet and MySQL[2020]
-- Registration Form using JSP + Servlet + JDBC + MySQL Database Example
-- Login and Registration Using Java Servlet & JSP | User Registration Program in java
-- Registration page with saving data in DB using Servlet + JSP + JDBC + MySQL + Tomcate (Step by Step)
-- Client Side validation using JSP 
-- Server side validation using java
-- Login form validation in java
-- How to Create a Complete Login and Forgot Password System in java ? [Part-1]
-- Forgot Password Page in java (JSP ,Servlet,Mysql Database, Eclipse IDE)
-- How to Create a Complete Login and Forgot Password System in java
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandaraj-t-n-834189173/)
