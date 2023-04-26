@@ -133,7 +133,9 @@ I would like to express my gratitude to the following individuals and resources 
 - [W3Schools](https://www.w3schools.com/) for providing educational resources on web development
 - [Stack Overflow](https://stackoverflow.com/) for providing a helpful community of developers
 
-- Without the contributions of these individuals and resources, this project would not have been possible. Thank you all for your support and assistance.
+I would like to express my sincere gratitude to Skill Lync, the organization where I learned full-stack development and completed this project as part of my internship. I would like to thank my project mentor for providing guidance, feedback, and support throughout the project.
+
+Without the contributions of these individuals and resources and support from Skill-Lync, this project would not have been possible. Thank you all for your support and assistance.
 
 ## 🔗 Link for contact:-
 
