@@ -63,15 +63,40 @@ This project demonstrates the implementation of Login and Registration functiona
 #### Login Page
 ![Login-Loginpage](https://user-images.githubusercontent.com/93505267/234291526-6d2df10b-68e5-47b4-ae55-25000f9afacc.png)
 
+
+#### ForgotPassword page
+
+##### Note: When you click on Forgot Password on Login page, It will show below page to enter the your validated email to send the otp.
+
 ![Login-forgotpassword](https://user-images.githubusercontent.com/93505267/234458670-3cc90d28-52d8-476e-8ccf-7ddd24d96d66.png)
 
+##### After enter email addresss, click on Get New password and redirect to below page to enter the otp(otp is sent to entered email address)
 ![Login-enterotp](https://user-images.githubusercontent.com/93505267/234458467-12133caf-414a-4bee-853c-d235b6efb4f9.png)
+
+
+#### OTP Validation page
+
+##### When you click Reset password button on above page, it validate the otp.
+##### Note: Below page shows wrong otp, when you entered wrong otp.
 
 ![Login-validateotp](https://user-images.githubusercontent.com/93505267/234459006-fccff8c6-1fb9-484b-9b00-9f6e53465fe4.png)
 
+
+#### New Password
+
+##### When we entered correct otp, it will redirect to below page
+
 ![Login-Enternewpassword](https://user-images.githubusercontent.com/93505267/234458504-a72823ca-e508-4fd6-b3b8-5758792d5a12.png)
 
+
+#### Reset Successfully
+
+##### After giving new password, it shows alert as Password reset successfuly
+
 ![Login-resetsuccessfull](https://user-images.githubusercontent.com/93505267/234458852-24ec6948-a293-4b56-9b60-64c4b0532122.png)
+
+
+#### Final Output(Log in to system)
 
 ![Login-finaloutput](https://user-images.githubusercontent.com/93505267/234458441-2d3e66e6-93b0-4bb6-9cac-2aacf2f30a11.png)
 
