@@ -8,6 +8,7 @@
 - [Implementation steps](https://github.com/manikandaraj-T-N/Login/blob/main/README.md#implementation-steps)
 - [Installation steps](https://github.com/manikandaraj-T-N/Login/blob/main/README.md#installation-steps-)
 - [Output of project](https://github.com/manikandaraj-T-N/Login/blob/main/README.md#output-of-project-)
+- [Features](https://github.com/manikandaraj-T-N/Login/blob/main/README.md#features-)
 
 ## Introduction:
 This project demonstrates the implementation of Login and Registration functionalities using JSP, Servlet and MySQL. The project includes a Registration form where users can register themselves by providing their details like name, email, password, etc. Once the user is registered, he/she can use the Login page to enter the credentials and log in to the system.
@@ -61,6 +62,23 @@ This project demonstrates the implementation of Login and Registration functiona
 
 #### Login Page
 ![Login-Loginpage](https://user-images.githubusercontent.com/93505267/234291526-6d2df10b-68e5-47b4-ae55-25000f9afacc.png)
+
+![Login-forgotpassword](https://user-images.githubusercontent.com/93505267/234458670-3cc90d28-52d8-476e-8ccf-7ddd24d96d66.png)
+
+![Login-enterotp](https://user-images.githubusercontent.com/93505267/234458467-12133caf-414a-4bee-853c-d235b6efb4f9.png)
+
+![Login-validateotp](https://user-images.githubusercontent.com/93505267/234459006-fccff8c6-1fb9-484b-9b00-9f6e53465fe4.png)
+
+![Login-Enternewpassword](https://user-images.githubusercontent.com/93505267/234458504-a72823ca-e508-4fd6-b3b8-5758792d5a12.png)
+
+![Login-resetsuccessfull](https://user-images.githubusercontent.com/93505267/234458852-24ec6948-a293-4b56-9b60-64c4b0532122.png)
+
+![Login-finaloutput](https://user-images.githubusercontent.com/93505267/234458441-2d3e66e6-93b0-4bb6-9cac-2aacf2f30a11.png)
+
+
+
+
+
 
 ## Features:-
 
