@@ -111,8 +111,29 @@ This project demonstrates the implementation of Login and Registration functiona
 -  hashing for secure storage.
 - Responsive UI design using Bootstrap.
 
+## Contributing
+
+Contributions are welcome and encouraged! Here are a few ways you can contribute to this project:
+
+- Report bugs and suggest enhancements by submitting issues.
+- Fork the repository and submit pull requests for bug fixes or enhancements.
+- Provide feedback on the project and suggest ways to improve it.
+
+
 ### License:-
 - This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License
+
+## Acknowledgments
+
+I would like to express my gratitude to the following individuals and resources for their contributions to this project:
+
+- [Apache Tomcat](https://tomcat.apache.org/) for providing the web server software
+- [Eclipse IDE](https://www.eclipse.org/) for providing the development environment
+- [MySQL](https://www.mysql.com/) for providing the database software
+- [W3Schools](https://www.w3schools.com/) for providing educational resources on web development
+- [Stack Overflow](https://stackoverflow.com/) for providing a helpful community of developers
+
+- Without the contributions of these individuals and resources, this project would not have been possible. Thank you all for your support and assistance.
 
 ## 🔗 Link for contact:-
 
