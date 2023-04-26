@@ -9,7 +9,7 @@
 - [Installation steps](https://github.com/manikandaraj-T-N/Login/blob/main/README.md#installation-steps-)
 - [Output of project](https://github.com/manikandaraj-T-N/Login/blob/main/README.md#output-of-project-)
 - [Features](https://github.com/manikandaraj-T-N/Login/blob/main/README.md#features-)
-- [contributing](https://github.com/manikandaraj-T-N/Login/blob/main/README.md#contributing)
+- [Contributing](https://github.com/manikandaraj-T-N/Login/blob/main/README.md#contributing)
 - [License](https://github.com/manikandaraj-T-N/Login/blob/main/README.md#license-)
 - [Acknowledgements](https://github.com/manikandaraj-T-N/Login/blob/main/README.md#acknowledgments)
 
