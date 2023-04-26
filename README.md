@@ -91,7 +91,7 @@ This project demonstrates the implementation of Login and Registration functiona
 
 #### Reset Successfully
 
-##### After giving new password, click on Reset password and  it will shows alert as Password reset successfuly
+##### After giving new password, click on Reset and  it will shows alert as Password reset successfuly
 
 ![Login-resetsuccessfull](https://user-images.githubusercontent.com/93505267/234458852-24ec6948-a293-4b56-9b60-64c4b0532122.png)
 
