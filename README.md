@@ -9,6 +9,7 @@
 - [Installation steps](https://github.com/manikandaraj-T-N/Login/blob/main/README.md#installation-steps-)
 - [Output of project](https://github.com/manikandaraj-T-N/Login/blob/main/README.md#output-of-project-)
 - [Features](https://github.com/manikandaraj-T-N/Login/blob/main/README.md#features-)
+- [License]()
 
 ## Introduction:
 This project demonstrates the implementation of Login and Registration functionalities using JSP, Servlet and MySQL. The project includes a Registration form where users can register themselves by providing their details like name, email, password, etc. Once the user is registered, he/she can use the Login page to enter the credentials and log in to the system.
